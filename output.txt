@@ -1,0 +1,327 @@
+NO_DOSSIER          X      10
+IDENT_CLIENT_ENTITE X      13
+CODE_PROCESS_DEC_SO X      10
+DATE_DEMANDE_SO     X       8
+IDENT_CLIENT_GROUPE X       8
+SEGMENTATION_SNI    X       4
+DT_SEGMENTATION     X       8
+CODE_CLIENT_SO      X       5
+VERS_PROC           U Z     5
+RAISON_SOCIALE      X      40
+CODE_VILLE          X       4
+DT_ENTRE_RELATION   X       8
+MARCHE              X       3
+CODE_AGENCE         X       4
+CATEG_CLIENT        X       1
+CATEGORIE_RISQUE    X       1
+SORTIE_RISQUE       X       1
+CODE_CSP            X       2
+LIBELLE_GROUPE      X      25
+DEFAUT_AWB          X       1
+CODE_ACTIV          X       3
+LIB_CODE_ACTIV      X      40
+DT_NAISSANCE        X       8
+SEGMENTATION_SNI-2  X       3
+LIBELLE_SECT_SNI    X      75
+NUM_CPTE_PRINCIPAL  X      16
+DT_OUVERTURE_SO     X       8
+AGE_ENTREPRISE      U Z     6
+AGE_COMPTE          U Z     6
+CA_N                U Z    15
+CA_N1               U Z    15
+FP_N                N Z    15
+S_FP_N              X       1
+FP_N1               N Z    15
+S_FP_N1             X       1
+DET_BANC_CT         U Z    15
+DET_BANC_TOT        U Z    15
+DET_GLOB            U Z    15
+TOTAL_BILAN         U Z    15
+ACTIF_CIRC          U Z    15
+RES_NET_N           N Z    15
+S_RES_NET_N         X       1
+RES_EXP_N           N Z    15
+S_RES_EXP_N         X       1
+RES_EXP_N1          N Z    15
+S_RES_EXP_N1        X       1
+RES_EXP_N2          N Z    15
+S_RES_EXP_N2        X       1
+DEL_CLIENT          U Z    15
+DEL_FRNS            U Z    15
+EBE                 N Z    15
+S_EBE               X       1
+FP_NET_N            N Z    15
+S_FP_NET_N          X       1
+FP_NET_N1           N Z    15
+S_FP_NET_N1         X       1
+DYN_CA_2            N Z  4.4
+S_DYN_CA_2          X       1
+END_BANC_CT         U Z  4.4
+END_BANC_TOT        U Z  4.4
+END_GLOB            U Z  4.4
+RENT_RN             N Z  4.4
+S_RENT_RN           X       1
+STRUC               N Z  4.4
+S_STRUC             X       1
+FRAISFI_CA          U Z  4.4
+RENT_EBE            N Z  4.4
+S_RENT_EBE          X       1
+DYN_CA_3            N Z  4.4
+S_DYN_CA_3          X       1
+RENT_REX_1          N Z  4.4
+S_RENT_REX_1        X       1
+RENT_REX_2          N Z  4.4
+S_RENT_REX_2        X       1
+RENT_REX_3          N Z  4.4
+S_RENT_REX_3        X       1
+DYN_FP_NET          N Z  4.4
+S_DYN_FP_NET        X       1
+CLI_GEL_SANS-MVT    U Z     2
+CLI_DEPAS_SURCOTE   U Z     2
+CLI_IMPAY_ESCOMPTE  U Z     2
+CLI_IMPAY_MOBILISA  U Z     2
+CLIGNO_SUM          U Z     2
+MVT_CRED_N          U Z    15
+MVT_CRED_N1         U Z    15
+DYN_MVT_CRED        N Z  4.4
+S_DYN_MVT_CRED      X       1
+SLD_DEB_AUTO_CS     U Z  4.4
+MVT_CRED_CA         U Z  4.4
+FIN-CODE            X      12
+FIN_RAW_SCORE       U Z  4.9
+FIN_ALIGNED_SCORE   U Z  4.9
+FIN_SCOR_FACTOR_1   X       3
+FIN_SCOR_FACTOR_2   X       3
+FIN_SCOR_FACTOR_3   X       3
+FIN_SCOR_FACTOR_4   X       3
+FIN_SCOR_FACTOR_5   X       3
+FIN_SCOR_FACTOR_6   X       3
+FIN_SCOR_FACTOR_7   X       3
+FIN_SCOR_FACTOR_8   X       3
+FIN_SCOR_FACTOR_9   X       3
+FIN_SCOR_FACTOR_10  X       3
+FIN_SC_FAC_VAL_1    N Z  4.9
+S_N_SC_FAC_VAL_1    X       1
+FIN_SC_FAC_VAL_2    N Z  4.9
+S_N_SC_FAC_VAL_2    X       1
+FIN_SC_FAC_VAL_3    N Z  4.9
+S_N_SC_FAC_VAL_3    X       1
+FIN_SC_FAC_VAL_4    N Z  4.9
+S_N_SC_FAC_VAL_4    X       1
+FIN_SC_FAC_VAL_5    N Z  4.9
+S_N_SC_FAC_VAL_5    X       1
+FIN_SC_FAC_VAL_6    N Z  4.9
+S_N_SC_FAC_VAL_6    X       1
+FIN_SC_FAC_VAL_7    N Z  4.9
+S_N_SC_FAC_VAL_7    X       1
+FIN_SC_FAC_VAL_8    N Z  4.9
+S_N_SC_FAC_VAL_8    X       1
+FIN_SC_FAC_VAL_9    N Z  4.9
+S_N_SC_FAC_VAL_9    X       1
+FIN_SC_FAC_VAL_10   N Z  4.9
+S_N_SC_FAC_VAL_10   X       1
+F_SCOR_FACT_DELTA1  N Z  4.9
+S_SCOR_FACT_DELTA1  X       1
+F_SCOR_FACT_DELTA2  N Z  4.9
+S_SCOR_FACT_DELTA2  X       1
+F_SCOR_FACT_DELTA3  N Z  4.9
+S_SCOR_FACT_DELTA3  X       1
+F_SCOR_FACT_DELTA4  N Z  4.9
+S_SCOR_FACT_DELTA4  X       1
+F_SCOR_FACT_DELTA5  N Z  4.9
+S_SCOR_FACT_DELTA5  X       1
+F_SCOR_FACT_DELTA6  N Z  4.9
+S_SCOR_FACT_DELTA6  X       1
+F_SCOR_FACT_DELTA7  N Z  4.9
+S_SCOR_FACT_DELTA7  X       1
+F_SCOR_FACT_DELTA8  N Z  4.9
+S_SCOR_FACT_DELTA8  X       1
+F_SCOR_FACT_DELTA9  N Z  4.9
+S_SCOR_FACT_DELTA9  X       1
+F_SCOR_FACT_DELTA10 N Z  4.9
+S_SCOR_FACT_DELTA10 X       1
+QUALI_CODE          X      12
+QUALI_RAW_SCORE     U Z  4.9
+QUALI_ALIGNED_SCORE N Z  4.9
+QUALI_SCOR_FACT_1   X       3
+QUALI_SCOR_FACT_2   X       3
+QUALI_SCOR_FACT_3   X       3
+QUALI_SCOR_FACT_4   X       3
+QUALI_SCOR_FACT_5   X       3
+QUALI_SCOR_FACT_6   X       3
+QUALI_SCOR_FACT_7   X       3
+QUALI_SCOR_FACT_8   X       3
+QUALI_SCOR_FACT_9   X       3
+QUALI_SCOR_FACT_10  X       3
+QUALI_SC_FAC_VAL_1  N Z  4.9
+S_ALI_SC_FAC_VAL_1  X       1
+QUALI_SC_FAC_VAL_2  N Z  4.9
+S_ALI_SC_FAC_VAL_2  X       1
+QUALI_SC_FAC_VAL_3  N Z  4.9
+S_ALI_SC_FAC_VAL_3  X       1
+QUALI_SC_FAC_VAL_4  N Z  4.9
+S_ALI_SC_FAC_VAL_4  X       1
+QUALI_SC_FAC_VAL_5  N Z  4.9
+S_ALI_SC_FAC_VAL_5  X       1
+QUALI_SC_FAC_VAL_6  N Z  4.9
+S_ALI_SC_FAC_VAL_6  X       1
+QUALI_SC_FAC_VAL_7  N Z  4.9
+S_ALI_SC_FAC_VAL_7  X       1
+QUALI_SC_FAC_VAL_8  N Z  4.9
+S_ALI_SC_FAC_VAL_8  X       1
+QUALI_SC_FAC_VAL_9  N Z  4.9
+S_ALI_SC_FAC_VAL_9  X       1
+QUALI_SC_FAC_VAL_10 N Z  4.9
+S_ALI_SC_FAC_VAL_10 X       1
+QUA_SCOR_FACT_DE_1  N Z  4.9
+S_A_SCOR_FACT_DE_1  X       1
+QUA_SCOR_FACT_DE_2  N Z  4.9
+S_A_SCOR_FACT_DE_2  X       1
+QUA_SCOR_FACT_DE_3  N Z  4.9
+S_A_SCOR_FACT_DE_3  X       1
+QUA_SCOR_FACT_DE_4  N Z  4.9
+S_A_SCOR_FACT_DE_4  X       1
+QUA_SCOR_FACT_DE_5  N Z  4.9
+S_A_SCOR_FACT_DE_5  X       1
+QUA_SCOR_FACT_DE_6  N Z  4.9
+S_A_SCOR_FACT_DE_6  X       1
+QUA_SCOR_FACT_DE_7  N Z  4.9
+S_A_SCOR_FACT_DE_7  X       1
+QUA_SCOR_FACT_DE_8  N Z  4.9
+S_A_SCOR_FACT_DE_8  X       1
+QUA_SCOR_FACT_DE_9  N Z  4.9
+S_A_SCOR_FACT_DE_9  X       1
+QUA_SCOR_FACT_DE_10 N Z  4.9
+S_A_SCOR_FACT_DE_10 X       1
+COMP_CODE           X      12
+COMP_RAW_SCORE      U Z  4.9
+COMP_ALIGNED_SCORE  U Z  4.9
+COMP_SCOR_FACT_1    X       3
+COMP_SCOR_FACT_2    X       3
+COMP_SCOR_FACT_3    X       3
+COMP_SCOR_FACT_4    X       3
+COMP_SCOR_FACT_5    X       3
+COMP_SCOR_FACT_6    X       3
+COMP_SCOR_FACT_7    X       3
+COMP_SCOR_FACT_8    X       3
+COMP_SCOR_FACT_9    X       3
+COMP_SCOR_FACT_10   X       3
+COMP_SC_FAC_VAL_1   N Z  4.9
+S_MP_SC_FAC_VAL_1   X       1
+COMP_SC_FAC_VAL_2   N Z  4.9
+S_MP_SC_FAC_VAL_2   X       1
+COMP_SC_FAC_VAL_3   N Z  4.9
+S_MP_SC_FAC_VAL_3   X       1
+COMP_SC_FAC_VAL_4   N Z  4.9
+S_MP_SC_FAC_VAL_4   X       1
+COMP_SC_FAC_VAL_5   N Z  4.9
+S_MP_SC_FAC_VAL_5   X       1
+COMP_SC_FAC_VAL_6   N Z  4.9
+S_MP_SC_FAC_VAL_6   X       1
+COMP_SC_FAC_VAL_7   N Z  4.9
+S_MP_SC_FAC_VAL_7   X       1
+COMP_SC_FAC_VAL_8   N Z  4.9
+S_MP_SC_FAC_VAL_8   X       1
+COMP_SC_FAC_VAL_9   N Z  4.9
+S_MP_SC_FAC_VAL_9   X       1
+COMP_SC_FAC_VAL_10  N Z  4.9
+S_MP_SC_FAC_VAL_10  X       1
+COMP_SCOR_FACT_DE1  N Z  4.9
+S_MP_SCOR_FACT_DE1  X       1
+COMP_SCOR_FACT_DE2  N Z  4.9
+S_MP_SCOR_FACT_DE2  X       1
+COMP_SCOR_FACT_DE3  N Z  4.9
+S_MP_SCOR_FACT_DE3  X       1
+COMP_SCOR_FACT_DE4  N Z  4.9
+S_MP_SCOR_FACT_DE4  X       1
+COMP_SCOR_FACT_DE5  N Z  4.9
+S_MP_SCOR_FACT_DE5  X       1
+COMP_SCOR_FACT_DE6  N Z  4.9
+S_MP_SCOR_FACT_DE6  X       1
+COMP_SCOR_FACT_DE7  N Z  4.9
+S_MP_SCOR_FACT_DE7  X       1
+COMP_SCOR_FACT_DE8  N Z  4.9
+S_MP_SCOR_FACT_DE8  X       1
+COMP_SCOR_FACT_DE9  N Z  4.9
+S_MP_SCOR_FACT_DE9  X       1
+COMP_SCOR_FACT_DE10 N Z  4.9
+S_MP_SCOR_FACT_DE10 X       1
+SCOR_FACT_FIN_1     U Z     3
+SCOR_FACT_FIN_2     U Z     3
+SCOR_FACT_FIN_3     U Z     3
+SCOR_FACT_FIN_4     U Z     3
+SCOR_FACT_FIN_5     U Z     3
+SCOR_FACT_FIN_6     U Z     3
+SCOR_FACT_FIN_7     U Z     3
+SCOR_FACT_COMP_1    U Z     3
+SCOR_FACT_COMP_2    U Z     3
+SCOR_FACT_COMP_3    U Z     3
+SCOR_FACT_COMP_4    U Z     3
+SCOR_FACT_QUALI_1   U Z     3
+SCOR_FACT_QUALI_2   U Z     3
+SCOR_FACT_QUALI_3   U Z     3
+SCORE_FINANCIER     U Z     3
+SCORE_COMPORTEMENT  U Z     3
+SCORE_QUALITATIF    U Z     3
+SCORE_FINAL         U Z     3
+PD_INDIV            U Z  4.9
+PD_MOYENNE_CLASSE   U Z  9.6
+CLASSE_SCORE_SYS_1  X       2
+APPRECIATION_NOT_1  X      15
+SCORE_FORCAGE       N Z     1
+S_SCORE_FORCAGE     X       1
+CLASSE_SCORE_SYS_2  X       2
+APPRECIATION_NOT_2  X      15
+DATE_NOTATION       X       8
+BILAN_NOTATION      U Z     4
+SEG_SNI_S1          X      10
+EXCLUSION_01        U Z     1
+EXCLUSION_02        U Z     1
+EXCLUSION_03        U Z     1
+FRAISFI_EBE         N Z  4.4
+S_FRAISFI_EBE       X       1
+RENT_COM            N Z  4.4
+S_RENT_COM          X       1
+DEL_STOCK           U Z  4.4
+CAF                 N Z    15
+S_CAF               X       1
+QUESTIONNAIRE_1     X       1
+QUESTIONNAIRE_2     X       1
+QUESTIONNAIRE_3     X       1
+QUESTIONNAIRE_4     X       1
+QUESTIONNAIRE_5     X       1
+QUESTIONNAIRE_6     X       1
+QUESTIONNAIRE_7     X       1
+QUESTIONNAIRE_8     X       1
+FIN_SCORE_FACTOR_11 X       3
+FINSCOREFACTVALUE11 N Z  4.9
+S_NSCOREFACTVALUE11 X       1
+FINSCOREFACTDELTA11 N Z  4.9
+S_NSCOREFACTDELTA11 X       1
+SCOR_FACT_FIN_8     U Z     3
+SCOR_FACT_FIN_9     U Z     3
+SCOR_FACT_FIN_10    U Z     3
+SCOR_FACT_FIN_11    U Z     3
+SCORE_QQ            U Z  3.2
+CLASSE_SYSTEM_QQ    X       2
+APPRECIATION_QQ     X      15
+SCOR_QQ_1           U Z     3
+SCOR_QQ_2           U Z     3
+SCOR_QQ_3           U Z     3
+SCOR_QQ_4           U Z     3
+SCOR_QQ_5           U Z     3
+SCOR_QQ_6           U Z     3
+SCOR_QQ_7           U Z     3
+SCOR_QQ_8           U Z     3
+CAF_TBILAN          N Z  4.4
+S_CAF_TBILAN        X       1
+DYN_RENT            N Z  4.4
+S_DYN_RENT          X       1
+FIN_SCORE_FACTOR_12 X       3
+FINSCOREFACTVALUE12 N Z  4.9
+S_NSCOREFACTVALUE12 X       1
+FINSCOREFACTDELTA12 N Z  4.9
+S_NSCOREFACTDELTA12 X       1
+SCOR_FACT_FIN_12    U Z     3
+CAF_CA              N Z  4.4
+S_CAF_CA            X       1

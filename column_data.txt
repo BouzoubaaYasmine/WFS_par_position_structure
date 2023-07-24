@@ -1,0 +1,304 @@
+NR_DOSSIER          X      10
+IDENT_CLIENT_ENTI   X      13
+CODE_PROCESS_DEC_SO X      10
+DATE_DEMANDE_SO     X       8
+IDENT_CLIENT_GROU   X       8
+IDENT_CLIENT_GROU9  U Z     8
+SEGMENTATION_SNI    X       4
+DT_SEGMENTATION     X       8
+CODE_CLIENT_SO      X       5
+VERS_PROC           U Z     5
+RAISON_SOCIALE      X      40
+CODE_VILLE          X       4
+DT_ENTRE_RELATION   X       8
+MARCHE              X       3
+CODE_AGENCE         X       4
+CATEG_CLIENT        X       1
+CATEGORIE_RISQUE    X       1
+SORTIE_RISQUE       X       1
+CODE_CSP            X       2
+LIBELLE_GROUPE_AF   X      25
+DEFAUT_AWB          X       1
+CODE_ACTIV          X       3
+LIB_ACTIV           X      40
+DT_NAISSANCE        X       8
+CODE_FORM_JUR       X       2
+QUESTIONNAIRE_1     X       1
+QUESTIONNAIRE_2     X       1
+QUESTIONNAIRE_3     X       1
+QUESTIONNAIRE_4     X       1
+QUESTIONNAIRE_5     X       1
+QUESTIONNAIRE_6     X       1
+QUESTIONNAIRE_7     X       1
+QUESTIONNAIRE_8     X       1
+CFE_EXE_EXE_T0      U Z     4
+CFE_DEB_EXE_T0      X       8
+CFE_FIN_EXE_T0      X       8
+CFE_COD_STA_T0      X       1
+CFE_NFE_NFE_T0      U Z    10
+CFE_NTE_NTE_T0      U Z    10
+CFE_MNT_MAT_T0      U Z    10
+CFE_IMM_INC_T0      U Z    10
+CFE_MNT_MOB_T0      U Z    10
+CFE_AUT_VAL_T0      U Z    10
+CFE_IMM_ENC_T0      U Z    10
+CFE_MNT_PAR_T0      U Z    10
+CFE_IMM_FIN_T0      U Z    10
+CFE_ECR_IMM_T0      U Z    10
+CFE_AUT_AA1_T0      U Z    10
+CFE_MNT_AMR_T0      U Z    10
+CFE_MAT_PRE_T0      U Z    10
+CFE_PRO_FIN_T0      U Z    10
+CFE_MNT_TRV_T0      U Z    10
+CFE_CLT_CRT_T0      U Z    10
+CFE_FOU_ACT_T0      U Z    10
+CFE_REG_AAA_T0      U Z    10
+CFE_MNT_DEB_T0      U Z    10
+CFE_CCC_ASS_T0      U Z    10
+CFE_MNT_PLC_T0      U Z    10
+CFE_ECR_ACT_T0      U Z    10
+CFE_TRS_AAA_T0      U Z    10
+CFE_AUT_AA2_T0      U Z    10
+CFE_PRV_CCD_T0      U Z    10
+CFE_PRV_DDS_T0      U Z    10
+CFE_MNT_CAP_T0      U Z    10
+CFE_CAP_NNL_T0      U Z    10
+CFE_RES_RES_T0      U Z    10
+CFE_ASS_PP1_T0      U Z    10
+CFE_REP_REP_T0      U Z    10
+CFE_REP_REP_T0-S    X       1
+CFE_AUT_PP1_T0      U Z    10
+CFE_AUT_PP1_T0-S    X       1
+CFE_FIN_MNT_T0      U Z    10
+CFE_MOY_LON_T0      U Z    10
+CFE_ECR_PAS_T0      U Z    10
+CFE_FOU_PAS_T0      U Z    10
+CFE_ACO_CLI_T0      U Z    10
+CFE_REG_PPP_T0      U Z    10
+CFE_PRV_EXI_T0      U Z    10
+CFE_ASS_PP2_T0      U Z    10
+CFE_AUT_CRE_T0      U Z    10
+CFE_ETA_OOS_T0      U Z    10
+CFE_PAS_CCR_T0      U Z    10
+CFE_MNT_ESC_T0      U Z    10
+CFE_MNT_TRS_T0      U Z    10
+CFE_BAQ_PPP_T0      U Z    10
+CFE_AUT_PP2_T0      U Z    10
+CFE_VTE_MAR_T0      U Z    10
+CFE_VTE_PRD_T0      U Z    10
+CFE_VTE_PEX_T0      U Z    10
+CFE_VAR_STP_T0      U Z    10
+CFE_VAR_STP_T0-S    X       1
+CFE_IMM_PPP_T0      U Z    10
+CFE_SUB_EEX_T0      U Z    10
+CFE_AUT_PRO_T0      U Z    10
+CFE_REP_EEX_T0      U Z    10
+CFE_ACH_REV_T0      U Z    10
+CFE_ACH_REV_T0-S    X       1
+CFE_ACH_CON_T0      U Z    10
+CFE_ACH_CON_T0-S    X       1
+CFE_AUT_CHA_T0      U Z    10
+CFE_IMP_TAX_T0      U Z    10
+CFE_CHG_PER_T0      U Z    10
+CFE_AUT_CHG_T0      U Z    10
+CFE_DOT_EXP_T0      U Z    10
+CFE_PRD_TIT_T0      U Z    10
+CFE_GAI_CHG_T0      U Z    10
+CFE_PRD_FIN_T0      U Z    10
+CFE_REP_FIN_T0      U Z    10
+CFE_CHG_INT_T0      U Z    10
+CFE_PER_CHG_T0      U Z    10
+CFE_CHG_FIN_T0      U Z    10
+CFE_DOT_FIN_T0      U Z    10
+CFE_PRD_CES_T0      U Z    10
+CFE_SUB_EQU_T0      U Z    10
+CFE_REP_SUB_T0      U Z    10
+CFE_AUT_PNC_T0      U Z    10
+CFE_REP_PNC_T0      U Z    10
+CFE_VNA_IMC_T0      U Z    10
+CFE_SUB_ACC_T0      U Z    10
+CFE_CHA_NNC_T0      U Z    10
+CFE_DOT_NNC_T0      U Z    10
+CFE_IMP_BEN_T0      U Z    10
+CFE_EXE_EXE_T0_1    U Z     4
+CFE_DEB_EXE_T0_1    X       8
+CFE_FIN_EXE_T0_1    X       8
+CFE_COD_STA_T0_1    X       1
+CFE_NFE_NFE_T0_1    U Z    10
+CFE_NTE_NTE_T0_1    U Z    10
+CFE_NTE_NTE_T0_1    U Z    10
+CFE_MNT_MAT_T0_1    U Z    10
+CFE_IMM_INC_T0_1    U Z    10
+CFE_MNT_MOB_T0_1    U Z    10
+CFE_AUT_VAL_T0_1    U Z    10
+CFE_IMM_ENC_T0_1    U Z    10
+CFE_MNT_PAR_T0_1    U Z    10
+CFE_IMM_FIN_T0_1    U Z    10
+CFE_ECR_IMM_T0_1    U Z    10
+CFE_AUT_AA1_T0_1    U Z    10
+CFE_MNT_AMR_T0_1    U Z    10
+CFE_MAT_PRE_T0_1    U Z    10
+CFE_PRO_FIN_T0_1    U Z    10
+CFE_MNT_TRV_T0_1    U Z    10
+CFE_CLT_CRT_T0_1    U Z    10
+CFE_FOU_ACT_T0_1    U Z    10
+CFE_REG_AAA_T0_1    U Z    10
+CFE_MNT_DEB_T0_1    U Z    10
+CFE_CCC_ASS_T0_1    U Z    10
+CFE_MNT_PLC_T0_1    U Z    10
+CFE_ECR_ACT_T0_1    U Z    10
+CFE_TRS_AAA_T0_1    U Z    10
+CFE_AUT_AA2_T0_1    U Z    10
+CFE_PRV_CCD_T0_1    U Z    10
+CFE_PRV_DDS_T0_1    U Z    10
+CFE_MNT_CAP_T0_1    U Z    10
+CFE_CAP_NNL_T0_1    U Z    10
+CFE_RES_RES_T0_1    U Z    10
+CFE_ASS_PP1_T0_1    U Z    10
+CFE_REP_REP_T0_1    U Z    10
+CFE_REP_REP_T0_1-S  X       1
+CFE_AUT_PP1_T0_1    U Z    10
+CFE_AUT_PP1_T0_1-S  X       1
+CFE_FIN_MNT_T0_1    U Z    10
+CFE_MOY_LON_T0_1    U Z    10
+CFE_ECR_PAS_T0_1    U Z    10
+CFE_FOU_PAS_T0_1    U Z    10
+CFE_ACO_CLI_T0_1    U Z    10
+CFE_REG_PPP_T0_1    U Z    10
+CFE_PRV_EXI_T0_1    U Z    10
+CFE_ASS_PP2_T0_1    U Z    10
+CFE_AUT_CRE_T0_1    U Z    10
+CFE_ETA_OOS_T0_1    U Z    10
+CFE_PAS_CCR_T0_1    U Z    10
+CFE_MNT_ESC_T0_1    U Z    10
+CFE_MNT_TRS_T0_1    U Z    10
+CFE_BAQ_PPP_T0_1    U Z    10
+CFE_AUT_PP2_T0_1    U Z    10
+CFE_VTE_MAR_T0_1    U Z    10
+CFE_VTE_PRD_T0_1    U Z    10
+CFE_VTE_PEX_T0_1    U Z    10
+CFE_VAR_STP_T0_1    U Z    10
+CFE_VAR_STP_T0_1-S  X       1
+CFE_IMM_PPP_T0_1    U Z    10
+CFE_SUB_EEX_T0_1    U Z    10
+CFE_AUT_PRO_T0_1    U Z    10
+CFE_REP_EEX_T0_1    U Z    10
+CFE_ACH_REV_T0_1    U Z    10
+CFE_ACH_REV_T0_1-S  X       1
+CFE_ACH_CON_T0_1    U Z    10
+CFE_ACH_CON_T0_1-S  X       1
+CFE_AUT_CHA_T0_1    U Z    10
+CFE_IMP_TAX_T0_1    U Z    10
+CFE_CHG_PER_T0_1    U Z    10
+CFE_AUT_CHG_T0_1    U Z    10
+CFE_DOT_EXP_T0_1    U Z    10
+CFE_PRD_TIT_T0_1    U Z    10
+CFE_GAI_CHG_T0_1    U Z    10
+CFE_PRD_FIN_T0_1    U Z    10
+CFE_REP_FIN_T0_1    U Z    10
+CFE_CHG_INT_T0_1    U Z    10
+CFE_PER_CHG_T0_1    U Z    10
+CFE_CHG_FIN_T0_1    U Z    10
+CFE_DOT_FIN_T0_1    U Z    10
+CFE_PRD_CES_T0_1    U Z    10
+CFE_SUB_EQU_T0_1    U Z    10
+CFE_REP_SUB_T0_1    U Z    10
+CFE_AUT_PNC_T0_1    U Z    10
+CFE_REP_PNC_T0_1    U Z    10
+CFE_VNA_IMC_T0_1    U Z    10
+CFE_SUB_ACC_T0_1    U Z    10
+CFE_CHA_NNC_T0_1    U Z    10
+CFE_DOT_NNC_T0_1    U Z    10
+CFE_IMP_BEN_T0_1    U Z    10
+CFE_EXE_EXE_T0_2    U Z     4
+CFE_DEB_EXE_T0_2    X       8
+CFE_FIN_EXE_T0_2    X       8
+CFE_COD_STA_T0_2    X       1
+CFE_NFE_NFE_T0_2    U Z    10
+CFE_NTE_NTE_T0_2    U Z    10
+CFE_MNT_MAT_T0_2    U Z    10
+CFE_IMM_INC_T0_2    U Z    10
+CFE_MNT_MOB_T0_2    U Z    10
+CFE_AUT_VAL_T0_2    U Z    10
+CFE_IMM_ENC_T0_2    U Z    10
+CFE_MNT_PAR_T0_2    U Z    10
+CFE_IMM_FIN_T0_2    U Z    10
+CFE_ECR_IMM_T0_2    U Z    10
+CFE_AUT_AA1_T0_2    U Z    10
+CFE_MNT_AMR_T0_2    U Z    10
+CFE_MAT_PRE_T0_2    U Z    10
+CFE_PRO_FIN_T0_2    U Z    10
+CFE_MNT_TRV_T0_2    U Z    10
+CFE_CLT_CRT_T0_2    U Z    10
+CFE_FOU_ACT_T0_2    U Z    10
+CFE_REG_AAA_T0_2    U Z    10
+CFE_MNT_DEB_T0_2    U Z    10
+CFE_CCC_ASS_T0_2    U Z    10
+CFE_MNT_PLC_T0_2    U Z    10
+CFE_ECR_ACT_T0_2    U Z    10
+CFE_TRS_AAA_T0_2    U Z    10
+CFE_AUT_AA2_T0_2    U Z    10
+CFE_PRV_CCD_T0_2    U Z    10
+CFE_PRV_DDS_T0_2    U Z    10
+CFE_MNT_CAP_T0_2    U Z    10
+CFE_CAP_NNL_T0_2    U Z    10
+CFE_RES_RES_T0_2    U Z    10
+CFE_ASS_PP1_T0_2    U Z    10
+CFE_REP_REP_T0_2    U Z    10
+CFE_REP_REP_T0_2-S  X       1
+CFE_AUT_PP1_T0_2    U Z    10
+CFE_AUT_PP1_T0_2-S  X       1
+CFE_FIN_MNT_T0_2    U Z    10
+CFE_MOY_LON_T0_2    U Z    10
+CFE_ECR_PAS_T0_2    U Z    10
+CFE_FOU_PAS_T0_2    U Z    10
+CFE_ACO_CLI_T0_2    U Z    10
+CFE_REG_PPP_T0_2    U Z    10
+CFE_PRV_EXI_T0_2    U Z    10
+CFE_ASS_PP2_T0_2    U Z    10
+CFE_AUT_CRE_T0_2    U Z    10
+CFE_ETA_OOS_T0_2    U Z    10
+CFE_PAS_CCR_T0_2    U Z    10
+CFE_MNT_ESC_T0_2    U Z    10
+CFE_MNT_TRS_T0_2    U Z    10
+CFE_BAQ_PPP_T0_2    U Z    10
+CFE_AUT_PP2_T0_2    U Z    10
+CFE_VTE_MAR_T0_2    U Z    10
+CFE_VTE_PRD_T0_2    U Z    10
+CFE_VTE_PEX_T0_2    U Z    10
+CFE_VAR_STP_T0_2    U Z    10
+CFE_VAR_STP_T0_2-S  X       1
+CFE_IMM_PPP_T0_2    U Z    10
+CFE_SUB_EEX_T0_2    U Z    10
+CFE_AUT_PRO_T0_2    U Z    10
+CFE_REP_EEX_T0_2    U Z    10
+CFE_ACH_REV_T0_2    U Z    10
+CFE_ACH_REV_T0_2-S  X       1
+CFE_ACH_CON_T0_2    U Z    10
+CFE_ACH_CON_T0_2-S  X       1
+CFE_AUT_CHA_T0_2    U Z    10
+CFE_IMP_TAX_T0_2    U Z    10
+CFE_CHG_PER_T0_2    U Z    10
+CFE_AUT_CHG_T0_2    U Z    10
+CFE_DOT_EXP_T0_2    U Z    10
+CFE_PRD_TIT_T0_2    U Z    10
+CFE_GAI_CHG_T0_2    U Z    10
+CFE_PRD_FIN_T0_2    U Z    10
+CFE_REP_FIN_T0_2    U Z    10
+CFE_CHG_INT_T0_2    U Z    10
+CFE_PER_CHG_T0_2    U Z    10
+CFE_CHG_FIN_T0_2    U Z    10
+CFE_DOT_FIN_T0_2    U Z    10
+CFE_PRD_CES_T0_2    U Z    10
+CFE_SUB_EQU_T0_2    U Z    10
+CFE_REP_SUB_T0_2    U Z    10
+CFE_AUT_PNC_T0_2    U Z    10
+CFE_REP_PNC_T0_2    U Z    10
+CFE_VNA_IMC_T0_2    U Z    10
+CFE_SUB_ACC_T0_2    U Z    10
+CFE_CHA_NNC_T0_2    U Z    10
+CFE_DOT_NNC_T0_2    U Z    10
+CFE_IMP_BEN_T0_2    U Z    10
+SEG_QQ              X       1
+STATUT_QQ           X       1
+FILLER1             X     898
